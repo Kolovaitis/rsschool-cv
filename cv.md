@@ -11,7 +11,8 @@ I'm ready to start a career as a developer and achieve success in the sphere. I'
 - basic knowledge of Java Core;
 - basic knowledge of HTML / CSS / JavaScript;
 - basic knowledge of C / C ++;
-- basic knowledge of MySQL.
+- basic knowledge of MySQL;
+- basic knowledge of Delphi.
 ## Education:
 2-year student of Belarusian State University of Informatics and Radioelectronics, Minsk
 Faculty of Computer Systems and Networks, Information technology software.
